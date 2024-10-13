@@ -4,3 +4,8 @@ seaborn
 scipy
 matplotlib
 pyspark
+statsmodels
+scikit-learn
+openpyxl
+catboost
+hvplot
