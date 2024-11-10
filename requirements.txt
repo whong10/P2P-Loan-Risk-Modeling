@@ -9,3 +9,6 @@ scikit-learn
 openpyxl
 catboost
 hvplot
+joblib
+xgboost
+lightgbm
