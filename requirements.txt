@@ -12,3 +12,7 @@ hvplot
 joblib
 xgboost
 lightgbm
+ipywidgets
+ipython
+h2o
+hyperopt
