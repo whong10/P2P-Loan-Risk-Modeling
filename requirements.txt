@@ -4,3 +4,15 @@ seaborn
 scipy
 matplotlib
 pyspark
+statsmodels
+scikit-learn
+openpyxl
+catboost
+hvplot
+joblib
+xgboost
+lightgbm
+ipywidgets
+ipython
+h2o
+hyperopt

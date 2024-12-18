@@ -1,0 +1,2 @@
+# Dataset Download Instructions
+Download the Kaggle dataset at [https://www.kaggle.com/datasets/wordsforthewise/lending-club](https://www.kaggle.com/datasets/wordsforthewise/lending-club). Download LCDataDictionary.xlsx from [https://resources.lendingclub.com/LCDataDictionary.xlsx](https://resources.lendingclub.com/LCDataDictionary.xlsx). Make a new directory called "data/" and put "accepted_2007_to_2018Q4.csv", "rejected_2007_to_2018Q4.csv", and "LCDataDictionary.xlsx" in "data/". 
